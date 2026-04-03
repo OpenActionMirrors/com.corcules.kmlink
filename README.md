@@ -26,9 +26,10 @@ Open(double click ;-) ) com.corcules.kmlink.streamDeckPlugin file.
 - macOS 10.11 or later
 - Keyboard Maestro 8 or later
 
-> **Warning**
-> Version 7.4 of the Streamdeck application seems to break KMLink.
+> [!CAUTION]
+> Version 7.4 of the Streamdeck application seems to break KMLink.<br>
 > Please stay or reinstall previous version 7.3.1
+
 
 ## Usage
 Use "KMLink" custom action.
